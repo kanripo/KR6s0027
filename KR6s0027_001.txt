@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:07:56.140094
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:55
 #+TITLE: 大乘二十二問本
 #+PROPERTY: CBETA_ID T85n2818
 #+PROPERTY: ID KR6s0027
